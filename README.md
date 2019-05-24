@@ -1,5 +1,1 @@
-<?php
-
-echo "Acho que agora Acertei";
-
-?>
+Arquivos de Testes e Configurações do GitHub, Aprendendo a Usar.
